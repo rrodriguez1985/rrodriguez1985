@@ -35,7 +35,7 @@ Let´s go!!!!
 
 :computer:
 >"Nunca confíes en un ordenador que no puedas lanzar por la ventana" - Steve Wozniak (Cofundador de Apple) 
-:computer:
+
 
 Raúl Rodríguez.
 
