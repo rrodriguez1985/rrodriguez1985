@@ -1,29 +1,28 @@
-<h1 align="center">Hola 👋, Soy Raúl Rodríguez</h1>
-<h3 align="center">Un Ing. de Telecomuncaciones, Docente / Formador, y sobre todo, apasionado de las nuevas tecnologías y freak! :blush:</h3>
+#✨<h1 align="center">Bienvenidx 👋, mi nombre es **Raúl Rodríguez**</h1>✨
+<h3 align="center">Soy Graduado en Ing. de Telecomuncaciones, Docente / Formador, y sobre todo, apasionado de las nuevas tecnologías y todo em mundo freak! :blush:</h3>
+<h2>Mi formación y vida profesional, está centrada entorno al campo de las Nuevas Tecnologías / Transformación Digital y la Convergencia de las Telecomunicaciones: Redes LAN, WAN e Inalámbricas, Comunicaciones Móviles (GSM, GPRS, UMTS, WIMAX, LTE, LTE Advance), Sistemas SIP, Programación Web (HTML5, CSS3, JS, PHP, etc.), servidores web ( Apache, Nginx, etc), Virtualización y Cloud, Ciberseguridad,entre otras áreas. He trabajado tanto de consultor en el mundo IT, como docente/formador en el área de IT y Comunicaciones</h2>
+<hr>
+:mortar_board: Actualmente, trabajo como docente de varias materias y tecnologías de ***FP en los Ciclos Formativos de ASIR, DAM y DAw*** en la [Universidad Europea](https://universidadeuropea.com/)
 
-:mortar_board: Actualmente, soy profesor de varias materias y tecnologías de FP en los Ciclos Formativos de ASIR, DAM y DAW en la [Universidad Europea](https://universidadeuropea.com/)
+<p align="left" > 📘**Materias de ASIR:** Fundamentos de Hardware, Lenguaje de Marcas, Implantación de Sistemas Operativos, Implantación de Aplicaciones Web, Fundamentos de la Computación en la Nube, Administración de Sistemas Operativos, Ciberseguridad...</p>
 
-<p align="left" > :blue_book: Materias de ASIR: Fundamentos de Hardware, Lenguaje de Marcas, Implantación de Sistemas Operativos, Implantación de Aplicaciones Web, Fundamentos de la Computación en la Nube, Administración de Sistemas Operativos, Ciberseguridad...</p>
+<p align="left" > 📕**Materias de DAM/DAW:** Sistemas Informáticos, Lenguaje de Marcas, Entornos de Desarrollo, Despliegue de Aplicaciones Web, Desarrollo de Aplicaciones en Entorno Cliente / Servidor, Fundamentos de la Computación en la Nube, IoT...</p>
 
-<p align="left" > :red_book: Materias de DAM/DAW: Sistemas Informáticos, Lenguaje de Marcas, Entornos de Desarrollo, Despliegue de Aplicaciones Web, Desarrollo de Aplicaciones en Entorno Cliente / Servidor, Fundamentos de la Computación en la Nube, IoT...</p>
-
-🤝 También, colaboro como docente del módulo Lenguaje de Marcas de ASIR, DAM y DAW en [UNIR FP](https://www.unir.net/)
+🤝 También, colaboro como docente del módulo **Lenguaje de Marcas de ASIR, DAM y DAW** en [UNIR FP](https://www.unir.net/)
 
 :computer: y con cursos de IT como "Servidores Web" y "Servidores Web: Nginx y Apache" en [OpenWebinars](https://openwebinars.net)
 
-<h4 align="left">Conéctate conmigo:</h4>
+<h4 align="left">:coffee:**Conéctate conmigo**:coffee:</h4>
 
-📄 Puedes conocer más sobre mis skills y trabajos en **https://es.linkedin.com/in/raul-rodriguez-mercado-336aa5116**
+📄 Puedes conocer más sobre mis skills y trabajos en ****
 <p align="left" >
-    No dudes en contactarme :coffee: 
-    <a href="https://linkedin.com/in/raul rodriguez mercado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul rodriguez mercado" height= "30" width="40" /></a>
+    No dudes en contactarme para poder charlar o colaborar juntos en cualquier proyecto que se te ocurra 
+    <a href="https://es.linkedin.com/in/raul-rodriguez-mercado-336aa5116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul rodriguez mercado" height= "30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills y Conocimientos</h3>
-    <p align="left"> 
-    **Arduino:** <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-    <br>**AWS** <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    <br>**Azure**</a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" ancho="40" alto="40"/> </a>
-    <br>**Bash**<a href="https://www.gnu.org/software/bash/" destino="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" ancho="40" alto="40"/> </a> 
-    <br>**Bootstrap**<a href="https://getbootstrap.com" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <br>**C++**<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+!Nos vemos! 
+
+Raúl Rodríguez.
+
+<hr/>
+
