@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, Soy Raúl Rodríguez</h1>
 <h3 align="center">Un apasionado de las nuevas tecnologías y freak!</h3>
 
-- 🔭 Soy profesor de varias materias y tecnologías de FP en ASIR, DAM y DAW [en la Universidad Europea](https://universidadeuropea.com/)
+:mortar_board: Soy profesor de varias materias y tecnologías de FP en ASIR, DAM y DAW [en la Universidad Europea](https://universidadeuropea.com/)
 
 <p align="left" >Materias de ASIR: Fundamentos de Hardware, Lenguaje de Marcas, Implantación de Sistemas Operativos, Implantación de Aplicaciones Web, Fundamentos de la Computación en la Nube, Administración de Sistemas Operativos, Ciberseguridad...</p>
 
 <p align="left" >Materias de DAM/DAW: Sistemas Informáticos, Lenguaje de Marcas, Entornos de Desarrollo, Despliegue de Aplicaciones Web, Desarrollo de Aplicaciones en Entorno Cliente / Servidor, Fundamentos de la Computación en la Nube, IoT...</p>
 
-- 🤝 También, colaboro como docente del módulo Lenguaje de Marcas de ASIR, DAM y DAW en [UNIR FP](https://www.unir.net/)
+🤝 También, colaboro como docente del módulo Lenguaje de Marcas de ASIR, DAM y DAW en [UNIR FP](https://www.unir.net/)
 
-- 📄 Puedes conocer más sobre mis en **https://es.linkedin.com/in/raul-rodriguez-mercado-336aa5116**
+📄 Puedes conocer más sobre mis en **https://es.linkedin.com/in/raul-rodriguez-mercado-336aa5116**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left" >
