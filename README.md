@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3 align="center">Soy Graduado en Ing. de Telecomuncaciones, Docente / Formador, y sobre todo, apasionado de las nuevas tecnologías y todo em mundo freak! :blush:</h3>
+<h3 align="center">Soy Graduado en Ing. de Telecomunicaciones, Docente / Formador, y sobre todo, apasionado de las nuevas tecnologías y todo em mundo freak! :blush:</h3>
 
 Mi formación y vida profesional, está centrada entorno al campo de las **Nuevas Tecnologías / Transformación Digital y la Convergencia de las Telecomunicaciones: Redes LAN, WAN e Inalámbricas, Comunicaciones Móviles (GSM, GPRS, UMTS, WIMAX, LTE, LTE Advance), Sistemas SIP, Programación Web (HTML5, CSS3, JS, PHP, etc.), servidores web ( Apache, Nginx, etc), Virtualización y Cloud, Ciberseguridad**,entre otras áreas. He trabajado tanto de consultor como dirigiendo proyectos en el mundo IT, así como docente/formador y responsable académico en el mundo educativo centrado en el área de Informatica, Comunicaciones y Videojuegos.
 
