@@ -10,7 +10,16 @@ Mi formación y vida profesional, está centrada entorno al campo de las **Nueva
 
 :mortar_board: Actualmente, trabajo como docente de varias materias y tecnologías dentro de las titulaciones ***FP en los Ciclos Formativos de ASIR, DAM y DAW*** en [Universidad Europea](https://universidadeuropea.com/)
 
-📘 ***CFGS ASIR:*** : Fundamentos de Hardware, Lenguaje de Marcas, Implantación de Sistemas Operativos, Implantación de Aplicaciones Web, Fundamentos de la Computación en la Nube, Administración de Sistemas Operativos, Seguridad y Alta Disponibilidad, Ciberseguridad...</p>
+📘 ***CFGS ASIR:*** : 
+   * Fundamentos de Hardware
+   * Lenguaje de Marcas y Sistemas de Gestión
+   * Implantación de Sistemas Operativos
+   * Implantación de Aplicaciones Web
+   * Fundamentos de la Computación en la Nube
+   * Administración de Sistemas Operativos
+   * Seguridad y Alta Disponibilidad
+   * Ciberseguridad
+   * Proyectos Fin de Ciclo
 
 📕 ***CFGS DAM/DAW:*** : Sistemas Informáticos, Lenguaje de Marcas, Entornos de Desarrollo, Despliegue de Aplicaciones Web, Desarrollo de Aplicaciones en Entorno Cliente / Servidor, Fundamentos de la Computación en la Nube / Implantación de Aplicaciones Cloud, IoT...</p>
 
