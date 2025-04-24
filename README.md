@@ -10,7 +10,7 @@ Mi formación y vida profesional, está centrada entorno al campo de las **Nueva
 
 :mortar_board: Actualmente, trabajo como docente de varias materias y tecnologías dentro de las titulaciones ***FP en los Ciclos Formativos de ASIR, DAM y DAW*** en [Universidad Europea](https://universidadeuropea.com/)
 
-📘 ***CFGS ASIR:*** : 
+:computer: ***CFGS ASIR:*** 
    * Fundamentos de Hardware
    * Lenguaje de Marcas y Sistemas de Gestión
    * Implantación de Sistemas Operativos
@@ -21,20 +21,30 @@ Mi formación y vida profesional, está centrada entorno al campo de las **Nueva
    * Ciberseguridad
    * Proyectos Fin de Ciclo
 
-📕 ***CFGS DAM/DAW:*** : Sistemas Informáticos, Lenguaje de Marcas, Entornos de Desarrollo, Despliegue de Aplicaciones Web, Desarrollo de Aplicaciones en Entorno Cliente / Servidor, Fundamentos de la Computación en la Nube / Implantación de Aplicaciones Cloud, IoT...</p>
+:floppy_disk: ***CFGS DAM/DAW*** 
+   * Sistemas Informáticos 
+   * Lenguaje de Marcas y Sistemas de Gestión
+   * Entornos de Desarrollo
+   * Despliegue de Aplicaciones Web
+   * Fundamentos de la Computación en la Nube
+   * Desarrollo de Aplicaciones en Entorno cliente y Servidor
+   * Implantación de Aplicaciones Cloud
+   * Arquitectura en la Nube
+   * Internet of Things (IoT)
 
-📔 ***CFGS A3DJEI*** : Desarrollo de Entornos Multimedia Interactivos, Proyectos de Juegos y Entornos Interactivos, Realización de Proyectos Multimeida Interactivos...
+:video_game: ***CFGS A3DJEI***
+   * Desarrollo de Entornos Multimedia Interactivos
+   * Proyectos de Juegos y Entornos Interactivos
+   * Realización de Proyectos Multimeida Interactivos
+   * Proyectos Fin de Ciclo y Formación en Centros de Trabajo (FCTs)
 
 ✒️ ***Creador de Contenidos y Material Didáctico*** para las materias de **Realización de Proyectos Interactivos Multimedia** del **CFGS A3DJEI** y **Sistemas Informáticos y Redes Locales** del **CFGS Sistemas de Telecomunicaciones e Informática**
 
+:computer: Profesor Universitario (Profesor Adjunto) en la materia de ***Contenedores, Virtualización y Escalabilidad*** del Grado en Ingeniería Informática en [UCJC](https://www.ucjc.edu/grados/ingenieria-informatica/)
 
 🤝 También, colaboro como docente del módulo ***Lenguaje de Marcas de ASIR, DAM y DAW*** en [UNIR FP](https://www.unir.net/)
 
-:computer: Docente de la materia de ***Contenedores, Virtualización y Escalabilidad*** del Grado en Ingeniería Informática en [UCJC](https://www.ucjc.edu/grados/ingenieria-informatica/)
-
 📝 y como Creador de Contenidos e impartición de Formación de IT tales como el curso de  ***"Servidores Web"*** y el de ***"Servidores Web: Nginx y Apache"*** que se imparten en [OpenWebinars](https://openwebinars.net)
-
-
 
 <h4 align="left">:coffee:**¿Hablamos?**:coffee:</h4>
 
@@ -46,7 +56,6 @@ Let´s go!!!!
 
 :computer:
 >"Nunca confíes en un ordenador que no puedas lanzar por la ventana" - Steve Wozniak (Cofundador de Apple) 
-
 
 Raúl Rodríguez.
 
